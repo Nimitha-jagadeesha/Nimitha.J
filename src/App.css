@@ -16,12 +16,17 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(10px + 1.5vmin);
+  overflow: hidden;
   color: white;
+}
+.Projects{
+  padding: 10px;
+  overflow: hidden;
 }
 
 .App-link {
-  color: #61dafb;
+  color: #284d57;
 }
 
 @keyframes App-logo-spin {
