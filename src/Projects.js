@@ -1,6 +1,6 @@
 export default function Projects() {
     return (
-        <div className="Projects">
+        <div className="Projects" id="Projects" data-aos="fade-up" data-aos-duration="2000">
             <h3 className="text-center">👨‍💻 My Projects</h3>
             <ul>
                 <li>

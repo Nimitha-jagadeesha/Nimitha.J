@@ -1,6 +1,6 @@
 export default function CodingProfiles() {
     return (
-        <div className="Coding">
+        <div className="Coding" data-aos="fade-up" data-aos-duration="2000">
             <br />
             <h3 className="text-center">Coding Profiles</h3>
             <br />
