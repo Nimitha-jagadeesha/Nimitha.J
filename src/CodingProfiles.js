@@ -1,11 +1,11 @@
 export default function CodingProfiles() {
     return (
-        <div className="Coding" data-aos-duration="2000">
+        <div className="Coding" data-aos="fade-up" data-aos-duration="2000">
             <br />
             <h3 className="text-center">Coding Profiles</h3>
             <br />
             <br />
-            <div className="row" data-aos="zoom-in">
+            <div className="row">
                 <a href="https://www.hackerrank.com/nimithajagadees" className="col-1 offset-2">
                     <img src={process.env.PUBLIC_URL + "hackerrank.png"} height={50} width={50} />
                 </a>
