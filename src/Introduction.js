@@ -9,7 +9,7 @@ export default function Introduction() {
                     <h1 className="text-center heading">Nimitha J  <span class="wave">🖐🏻</span> </h1>
                     <h5 className="tagline"> - Passinate Software Developer</h5>
                     <br/>
-                    <li>👀 I’m interested in solving problems, learning different technologies and teckstacks.</li>
+                    <li>👀 I’m interested in solving complex problems, designing complex systems, learning different technologies and teckstacks.</li>
                     <li>🌱 I’m currently learning best coding practices and System design :)</li>
                     <li>✨ I am continually inspired by the limitless potential of software development to bring ideas to life.</li>
                     <li>☕ I enjoy coding while sipping on a cup of tea.</li>

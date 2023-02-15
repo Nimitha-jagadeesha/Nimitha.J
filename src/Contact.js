@@ -6,16 +6,16 @@ export default function Contact() {
             <br />
             <br />
             <div className="row">
-                <a href="mailto:nimithajemail@gmail.com" className="col-1 offset-2" data-aos="zoom-in" data-aos-duration="2000">
+                <a href="mailto:nimithajemail@gmail.com" target="_blank" className="col-1 offset-2" data-aos="zoom-in" data-aos-duration="2000">
                     <img src={process.env.PUBLIC_URL + "gmail.png"} height={50} width={50} />
                 </a>
-                <a href="https://github.com/Nimitha-jagadeesha" className="col-1 offset-1" data-aos="zoom-in" data-aos-duration="2000">
+                <a href="https://github.com/Nimitha-jagadeesha" target="_blank" className="col-1 offset-1" data-aos="zoom-in" data-aos-duration="2000">
                     <img src={process.env.PUBLIC_URL + "github.png"}  height={50} width={50}/>
                 </a>
-                <a href="https://www.linkedin.com/in/nimitha-jagadeesha/" className="col-1 offset-1" data-aos="zoom-in" data-aos-duration="2000">
+                <a href="https://www.linkedin.com/in/nimitha-jagadeesha/" target="_blank" className="col-1 offset-1" data-aos="zoom-in" data-aos-duration="2000">
                     <img src={process.env.PUBLIC_URL + "linkedin.png"} height={50} width={50} />
                 </a>
-                <a href="https://twitter.com/Nimitha__J" className="col-1 offset-1" data-aos="zoom-in" data-aos-duration="2000">
+                <a href="https://twitter.com/Nimitha__J"target="_blank" className="col-1 offset-1" data-aos="zoom-in" data-aos-duration="2000">
                     <img src={process.env.PUBLIC_URL + "twitter.png"}  height={50} width={50} />
                 </a>
             </div>
