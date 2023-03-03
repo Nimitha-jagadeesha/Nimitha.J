@@ -6,9 +6,14 @@ export default function Projects() {
                 <li>
                     Full Stack Web App
                     <ul>
-                        <li ><a href="https://github.com/Nimitha-jagadeesha/Epsilon-21.0" className="App-link">Epsilon</a> (Django, Postgress SQL, HTML, CSS, Bootstrap, JS)</li>
-                        <li><a href="https://github.com/Nimitha-jagadeesha/Impetus" className="App-link">Impetus 21.0 </a> (MongoDB, nodejs, HTML, CSS, JavaScript)</li>
-                        <li>Agriculturify:
+                        <li ><a href="https://github.com/Nimitha-jagadeesha/Epsilon-21.0" className="App-link">Epsilon</a>: A website done for conducting online treasure hunt event of a college fest (Django, Postgress SQL, HTML, CSS, Bootstrap, JS)</li>
+                        <li>Impetus 21.0: A website done for college fest. (MongoDB, nodejs, HTML, CSS, JavaScript)
+                            <ul>
+                                <li>Github Link: <a href="https://github.com/Nimitha-jagadeesha/Impetus" className="App-link">https://github.com/Nimitha-jagadeesha/Impetus</a></li>
+                                <li>Website Link: <a href="https://impetus-flax.vercel.app/">Impetus 21.0</a></li>
+                            </ul>
+                           </li>
+                        <li>Agriculturify: A website to reduce food supply chain.
                             <ul>
                                 <li><a href="https://github.com/Nimitha-jagadeesha/Agricutureify" className="App-link">Frontend </a>(React, HTML, CSS, Javascript)</li>
                                 <li><a href="https://github.com/Nimitha-jagadeesha/AGRO-Backend-API" className="App-link"> Backend</a> (nodejs, express, MongDB)</li>
