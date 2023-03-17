@@ -8,7 +8,7 @@ export default function ExperienceEducation() {
                     <h5>Software Engineer - I  </h5>
                     <div className="row">
                         <h6 className="col-8">JP Morgan Chase & Co.</h6>
-                        <h6 className="col-4"> March '22 - Present</h6>
+                        <h6 className="col-4"> March '23 - Present</h6>
                     </div>
                 </li>
                 <br/>
@@ -16,7 +16,7 @@ export default function ExperienceEducation() {
                     <h5>Software Development Engineer - I  </h5>
                     <div className="row">
                         <h6 className="col-8">Amazon, India</h6>
-                        <h6 className="col-4">Aug '22 - March '22</h6>
+                        <h6 className="col-4">Aug '22 - March '23</h6>
                     </div>
                 </li>
                 <br/>
