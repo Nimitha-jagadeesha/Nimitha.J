@@ -4,11 +4,19 @@ export default function ExperienceEducation() {
             <h1 className="text-center"><i class="uil uil-briefcase-alt qualification__icon"></i>Experience</h1>
             <br />
             <ul data-aos="fade-up" data-aos-duration="2000">
+            <li>
+                    <h5>Software Engineer - I  </h5>
+                    <div className="row">
+                        <h6 className="col-8">JP Morgan Chase & Co.</h6>
+                        <h6 className="col-4"> March '22 - Present</h6>
+                    </div>
+                </li>
+                <br/>
                 <li>
                     <h5>Software Development Engineer - I  </h5>
                     <div className="row">
                         <h6 className="col-8">Amazon, India</h6>
-                        <h6 className="col-4">Aug '22 - Present</h6>
+                        <h6 className="col-4">Aug '22 - March '22</h6>
                     </div>
                 </li>
                 <br/>
