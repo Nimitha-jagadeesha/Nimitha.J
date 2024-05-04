@@ -1,4 +1,4 @@
-import Nimitha_J from './files/Nimitha_J.pdf'
+import Nimitha_J from './Nimitha_J.pdf'
 export default function Introduction() {
     return (
         <div className="App" id="Intro">
