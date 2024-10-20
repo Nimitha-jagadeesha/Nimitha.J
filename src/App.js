@@ -18,9 +18,9 @@ function App() {
       <Skills/>
       <ExperienceEducation/>
       <Projects />
-      <Contact />
+      <Certificates/>
       <CodingProfiles />
-     <Certificates/>
+     <Contact />
     </div>
   );
 }
