@@ -1,6 +1,6 @@
 export default function Certificates() {
     return (
-        <div className="Projects" id="Projects" data-aos="fade-up" data-aos-duration="2000">
+        <div className="Certificates" id="Certificates" data-aos="fade-up" data-aos-duration="2000">
             <h3 className="text-center">Certifications</h3>
           <ul>
               <li> <a href="https://www.credly.com/badges/f04a3e6f-b447-4d1f-9ebd-cc3557c22667">AWS Certified Cloud Practitioner</a> Issued by Amazon Web Services Training and Certification on September 22, 2023</li>
