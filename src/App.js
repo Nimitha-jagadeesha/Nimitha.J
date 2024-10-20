@@ -1,6 +1,7 @@
 import './App.css';
 import Projects from './Projects';
 import Introduction from './Introduction';
+import Certificates from './Certificates';
 import CodingProfiles from './CodingProfiles';
 import Contact from './Contact';
 import Navigation from './Navigation';
@@ -19,6 +20,7 @@ function App() {
       <Projects />
       <Contact />
       <CodingProfiles />
+     <Certificates/>
     </div>
   );
 }
