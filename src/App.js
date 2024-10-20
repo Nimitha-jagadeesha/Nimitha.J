@@ -13,14 +13,14 @@ function App() {
   AOS.init();
   return (
     <div>
-      <Navigation />
+      <Navigation/>
       <Introduction />
       <Skills/>
       <ExperienceEducation/>
-      <Projects />
+      <Projects/>
       <Certificates/>
-      <CodingProfiles />
-     <Contact />
+      <CodingProfiles/>
+     <Contact/>
     </div>
   );
 }
